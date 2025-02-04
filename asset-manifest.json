@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/strategywerks/static/css/main.00cbfed8.css",
+    "main.js": "/strategywerks/static/js/main.142b8fb9.js",
+    "index.html": "/strategywerks/index.html",
+    "main.00cbfed8.css.map": "/strategywerks/static/css/main.00cbfed8.css.map",
+    "main.142b8fb9.js.map": "/strategywerks/static/js/main.142b8fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00cbfed8.css",
+    "static/js/main.142b8fb9.js"
+  ]
+}
